@@ -4,6 +4,8 @@ Masters stuff
 
 This is my project for my MPhys at the University of Sussex. This is where I'll be documenting my work and completing all of my data anlysis. 
 
+Whilst my analysis is my own, any data used for anlysis (unless stated otherwise) is NOT MY OWN ANALYSIS. I am working with a research team to obtain data to conduct the analysis.
+
 Moved all my stuff onto GitHub on Sunday 11th February 2024 to better track exactly when I make any changes to my work.
 
 Log (Can check the commits and stuff there but this is a general log)
