@@ -1,5 +1,5 @@
 # n2edm-work
-Masters stuffs (private)
+Masters stuff
 
 
 This is my project for my MPhys at the University of Sussex. This is where I'll be documenting my work and completing all of my data anlysis. 
