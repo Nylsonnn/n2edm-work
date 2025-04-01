@@ -1,12 +1,8 @@
-# n2EDM-work
+# N2EDM-work
 Masters stuff
 
 
-This is my project for my MPhys at the University of Sussex. This is where I'll be documenting my work and completing all of my data anlysis. 
+This is my work done during my MPhys at the university of Sussex. This was conducted under the guidance of my supervisor, and in collaboration with the Paul Scherrer Institute. 
 
-Some of the initial work has been taken straight from the PSI data (UCNCalcs.xlsx)
-
-The majority of the calculations have been made by using equations taken directly from n2EDM papers from the Paul Scherrer Insitute (PSI) and the university of Sussex and my supervisor for this project.
-
-Moved all my stuff onto GitHub on Sunday 11th February 2024 to better track exactly when I make any changes to my work.
+I conducted data anlysis of the neutron count to analyse where, how and why neutrons are being lost from the predicted count. 
 
